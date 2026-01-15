@@ -11,6 +11,7 @@ It uses the `numpy` and `pandas` libraries.
 ## Installation
 
 Install the required dependencies using the following command:
+pip install numpy pandas
 
 
 ## How to Run
@@ -21,6 +22,7 @@ After installing the dependencies, run the project with:
 ## Files
 
 - `Tic-Tac-Tho.py` - Main Python file to run the Tic-Tac-Toe game
+python Tic-Tac-Tho.py
 
 ## Notes
 
@@ -28,3 +30,4 @@ After installing the dependencies, run the project with:
 - If you have multiple Python versions installed, you may need to use:
 
 
+python3 Tic-Tac-Tho.py
