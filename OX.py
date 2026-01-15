@@ -1,8 +1,8 @@
 import numpy as np 
 import random 
 
-O = []
-X = []
+O = []                          # ตำแหน่งของผู้เล่น O
+X = []                          # ตำแหน่งของ AI X
 win = [[1,2,3],
        [4,5,6],
        [7,8,9],
