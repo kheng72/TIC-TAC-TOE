@@ -1,30 +1,20 @@
 # Tic-Tac-Toe Project
 
-This project is a Tic-Tac-Toe game written in Python.  
-It uses the `numpy` and `pandas` libraries.
+This project is a Tic-Tac-Toe game written in Python using NumPy and Pandas.
 
 ## Requirements
-
 - Python 3.x
 - pip
-
-## Installation
-
-Install the required dependencies using the following command:
-
+- Git
 
 ## How to Run
 
-After installing the dependencies, run the project with:
+Run the following commands in the terminal:
 
-
-## Files
-
-- `Tic-Tac-Tho.py` - Main Python file to run the Tic-Tac-Toe game
-
-## Notes
-
-- Make sure you run the command in the directory that contains `Tic-Tac-Tho.py`
-- If you have multiple Python versions installed, you may need to use:
+```bash
+git clone https://github.com/kheng72/TIC-TAC-TOE.git
+cd your-repository
+pip install numpy pandas
+python Tic-Tac-Tho.py
 
 
