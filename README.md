@@ -13,9 +13,10 @@ Run the following commands in the terminal:
 
 ```bash
 git clone https://github.com/kheng72/TIC-TAC-TOE.git
-cd your-repository
+cd TIC-TAC-TOE
 pip install numpy pandas pygame
 python Tic-Tac-Toe.py
+
 
 
 
